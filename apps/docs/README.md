@@ -1,6 +1,7 @@
 ## Next.js Documentation (WIP)
 
-This app will be the new home for the Next.js documentation, currently in active development.
+* Next.js documentation NEW app
+  * ⚠️currently in active development⚠️
 
 ### What to Expect
 
